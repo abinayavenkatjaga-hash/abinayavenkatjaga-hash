@@ -1,16 +1,12 @@
-## Hi there 👋
+## Hi there 👋 I'm Abinaya
+My bio
+1st year student
+Interested in Web development & AI
+Currently learning HTML,CSS, JAVASCRIPT
+Working on small frontend project's
+Looking to collaborate on beginner-friendly projects 
+How to reach me:
+abinayavenkatjaga@gmail.com 
+fun fact:
+I love design creative UI projects!
 
-<!--
-**abinayavenkatjaga-hash/abinayavenkatjaga-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
